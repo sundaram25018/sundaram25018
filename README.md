@@ -1,18 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sundaram Dubey</h1>
-<h3 align="center">A passionate Software Engineer from India.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/sundaram dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sundaram dubey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sundaramdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sundaramdubey" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sundaram7573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sundaram7573" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=Aspiring+AI+%2F+ML+Engineer;Data+Scientist+%7C+Problem+Solver+%7C+Tech+Explorer;Building+AI+solutions+for+real-world+impact" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<!-- About Me -->
+## 👋 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sundaram25018&show_icons=true&locale=en&layout=compact" alt="sundaram25018" /></p>
+Hi there! I'm **Sundaram Dubey**, an enthusiastic and curious **AI/ML Engineer** and **Data Scientist** driven by the vision of building **data-powered solutions** that create real-world impact.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sundaram25018&show_icons=true&locale=en" alt="sundaram25018" /></p>
+- 🔍 I love exploring patterns in data and turning them into **actionable insights**.
+- 💡 I enjoy building **end-to-end machine learning systems**, from data wrangling to deployment.
+- 🧠 Interests: AI for Social Good, NLP, Computer Vision, LLMs, MLOps.
+- 🌱 Currently improving my skills in **Deep Learning**, **LLM Fine-tuning**, and **Model Explainability**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sundaram25018&" alt="sundaram25018" /></p>
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black)
+
+<!-- Projects -->
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 📄 **Resume Screening App** | AI-powered system that filters and ranks resumes based on job descriptions using NLP and embeddings. | NLP, FastAPI, Sentence Transformers |
+| 🌾 **Krishimitra** | Smart AI assistant for farmers that provides crop recommendations, weather updates, and market insights. | XGBoost, FastAPI, OpenWeatherMap API, Agmarknet |
+| 🧳 **AI Trip Planner** | Personalized travel planner that generates itineraries based on user preferences, budget, and time. | LLMs, Streamlit, OpenAI API, Geolocation APIs |
+| 🎶 **MelodyMind** | Music genre classification app using CNNs and GTZAN dataset with spectrogram visualizations. | CNN, Librosa, Streamlit |
+| 🧠 **ML Interview Prep Guide** | Curated 20+ ML interview questions with intuitive explanations and code-based answers. | Jupyter, Python, Markdown |
+
+📌 Check out more in my [repositories](https://github.com/sundaram25018?tab=repositories)!
+
+<!-- GitHub Stats -->
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sundaram25018&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaram25018&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+<!-- Let's Connect -->
+## 🤝 Let's Connect
+
+- 📫 Email: [sundaram7573@gmail.com](mailto:sundaram7573@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/sundaram25018](https://www.linkedin.com/in/sundaram25018)
+- 🌐 Portfolio: [https://musical-kleicha-728914.netlify.app](https://musical-kleicha-728914.netlify.app)
+
+---
+
+⭐ *"Driven by data. Inspired by impact."*  
