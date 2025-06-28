@@ -25,6 +25,7 @@ Hi there! I'm **Sundaram Dubey**, an enthusiastic and curious **AI/ML Engineer**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black)
+![Langchain](https://img.shields.io/badge/Langchain-009688?style=flat&logo=Langchain&logoColor=white)
 
 <!-- Projects -->
 ## 🚀 Featured Projects
